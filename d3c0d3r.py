@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+## Created by https://github.com/akkumar0
+
+
 import base64
 from tqdm import tqdm
 import time
